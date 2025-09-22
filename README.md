@@ -71,9 +71,7 @@ O dashboard permite explorar diversas métricas importantes para o negócio:
 
 ## 🖼️ Visualização do Dashboard
 
-![Todos os Estados](<https://github.com/user-attachments/assets/d15dd992-87f0-4df7-b863-a3bef7d5d2d1)
-
-![Fortaleza](<https://github.com/user-attachments/assets/b0eb0654-d2a8-4e5d-af2c-03180912ae2a)
+![Fortaleza](<https://github.com/user-attachments/assets/b0eb0654-d2a8-4e5d-af2c-03180912ae2a>)
 
 
 
